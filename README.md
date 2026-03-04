@@ -1,4 +1,7 @@
-# Extracting BIOS Modules
+<img width="480" alt="logo-ps2" src="https://github.com/user-attachments/assets/bded6500-6cee-417b-a4ba-7b67ad765579" />
+
+<img width="512" alt="bios" src="https://github.com/user-attachments/assets/5c536d48-d526-4313-b15c-ee1296dde013" />
+
 
 This script extracts modules from PlayStation 2 BIOS files (`.rom0`, `.rom1`, `.rom2`) and generates a Markdown summary with MD5 hashes.
 
@@ -10,7 +13,7 @@ This script extracts modules from PlayStation 2 BIOS files (`.rom0`, `.rom1`, `.
 2. Run the script:
 
 ```bash
-ps2-modules.py
+python3 ps2-modules.py
 ```
 
 3. Output:
